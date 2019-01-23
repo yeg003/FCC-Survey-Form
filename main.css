@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(6, 78, 136, 0.596);
+    font-family: helvetica;
+}
+.container{
+   
+}
+
+.wrapper{
+    text-align: center;   
+    margin: auto;
+    background-color: #eae7e8;
+    max-width: 1000px;
+}
+#title{
+    color: rgb(66, 66, 7);
+    font-family: helvetica;
+    text-align: center;   
+}
